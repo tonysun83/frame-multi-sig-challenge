@@ -1,0 +1,6 @@
+[submodule "frame-multisig-node"]
+	path = frame-multisig-node
+	url = https://github.com/tonysun83/frame-multisig-node
+[submodule "frame-multi-sig-front-end"]
+	path = frame-multi-sig-front-end
+	url = https://github.com/tonysun83/frame-multi-sig-front-end
